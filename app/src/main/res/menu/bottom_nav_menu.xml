@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Weather" android:id="@+id/weather" android:icon="@drawable/baseline_home_24" />
+    <item android:title="Forecast"  android:id="@+id/forecast" android:icon="@drawable/baseline_insert_chart_outlined_24" />
+    <item android:title="Chart"  android:id="@+id/chart" android:icon="@drawable/baseline_show_chart_24" />
+</menu>
